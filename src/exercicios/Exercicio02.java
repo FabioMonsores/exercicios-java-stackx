@@ -1,6 +1,6 @@
 //Criar um programa que leia o nome de uma pessoa, a sua idade e o seu salário e mostre na tela.
 
-package exercíciosBasicosTelaScanner;
+package exercicios;
 
 import java.util.Scanner;
 

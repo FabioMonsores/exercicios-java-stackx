@@ -1,6 +1,6 @@
 //Criar um programa que leia um número real e imprima o seu dobro.
 
-package exercíciosBasicosTelaScanner;
+package exercicios;
 
 import java.util.Scanner;
 
