@@ -1,7 +1,7 @@
 /*Criar um programa que leia um valor em Real e a cotação do dólar, 
 e converta esse valor em dólares.*/
 
-package exercícios;
+package exercíciosBasicosTelaScanner;
 
 import java.util.Scanner;
 

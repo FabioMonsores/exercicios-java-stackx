@@ -1,6 +1,6 @@
 //Criar um programa que leia dois números inteiros, efetue as quatro operações e mostre os resultados.
 
-package exercícios;
+package exercíciosBasicosTelaScanner;
 
 import java.util.Scanner;
 

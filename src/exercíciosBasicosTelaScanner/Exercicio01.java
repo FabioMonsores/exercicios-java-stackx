@@ -1,6 +1,6 @@
 //Criar um programa que receba três nomes de pessoas e mostre-os na tela.
 
-package exercícios;
+package exercíciosBasicosTelaScanner;
 
 public class Exercicio01 {
 
