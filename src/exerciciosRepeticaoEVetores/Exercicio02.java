@@ -13,7 +13,7 @@ public class Exercicio02 {
 
 		media = (nota[0] + nota[1] + nota[2] + nota[3]) / 4;
 
-		System.out.println(" ");
+		System.out.println(" "); // Poderia ter usado "\n" ou "%n" antes de "Média" mas não quis poluir o código.
 		System.out.printf("Média: %.2f ", media);
 	}
 }
