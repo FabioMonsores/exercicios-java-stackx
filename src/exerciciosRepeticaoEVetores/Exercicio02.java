@@ -12,7 +12,8 @@ public class Exercicio02 {
 		System.out.println("Nota 04: " + nota[3]);
 
 		media = (nota[0] + nota[1] + nota[2] + nota[3]) / 4;
-		
-		System.out.println(media);
+
+		System.out.println(" ");
+		System.out.printf("Média: %.2f ", media);
 	}
 }
