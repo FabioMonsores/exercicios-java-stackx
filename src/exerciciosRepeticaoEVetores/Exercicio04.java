@@ -13,8 +13,8 @@ public class Exercicio04 {
 		System.out.print("A soma utilizando a instrução WHILE: ");
 		int soma2 = 0, i2 = 0;
 		while (i2 <= 100) {
-			soma2 += i2;
-			i2++; // soma2 = soma2 + i2;
+			soma2 += i2; // soma2 = soma2 + i2;
+			i2++; 
 		}
 		System.out.println(soma2);
 	}
