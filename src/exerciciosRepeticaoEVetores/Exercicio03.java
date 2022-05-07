@@ -19,6 +19,5 @@ public class Exercicio03 {
 			System.out.println(num + "x" + i + " = " + (i * num));
 
 		}
-
 	}
 }
