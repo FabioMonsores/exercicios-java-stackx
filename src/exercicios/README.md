@@ -1,4 +1,4 @@
-Exercícios sobre básicos sobre imprimir na tela valores com Scanner.
+## Exercícios sobre básicos sobre imprimir na tela valores com Scanner.
 
 1 - Criar um programa que receba três nomes de pessoas e mostre-os na tela.
 
